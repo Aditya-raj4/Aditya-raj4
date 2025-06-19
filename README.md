@@ -1,15 +1,16 @@
 <!-- Profile Header -->
-<h1 align="center">Hello 👋, I'm Aditya</h1>
-<h3 align="center">A passionate Full Stack Developer working with the MERN stack</h3>
+<h1>Hello 👋, I'm Aditya</h1>
 
 ---
 
-### 🚀 What I'm Currently Working On:
-- 🩺 **HealCart** – A medicine donation platform for NGOs built with the MERN stack.
-- 🎮 **Game Listing Website** – Made with React, Node.js, Express, and MongoDB.
-- 🧠 Brushing up on **DSA** & practicing **Competitive Programming**.
+### 🧑‍💻 About Me:
+- I'm a Full Stack Web Developer.
+- I'm actively solving DSA problems using C++.
+- Currently working on some projects using the MERN stack.
+- Always open to learning and would love to collaborate on meaningful projects.
 
 ---
+
 
 ### 👁️ Visitor Count:
 <p align="center">
