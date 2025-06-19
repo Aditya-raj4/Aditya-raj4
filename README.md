@@ -4,19 +4,6 @@
 ---
 
 
-### 👁️ Visitors Count
-![Visitor Count](https://profile-counter.glitch.me/AdityaRaj/count.svg)
-
----
-
-### 📫 Connect with me
-
-- [LinkedIn](https://www.linkedin.com/in/aditya-raj-416a61261)
-- 📧 Email: [raditya0949@gmail.com](mailto:raditya0949@gmail.com)
-- 🌐 [My Portfolio](https://portfolio-aditya-rajs-projects-4763438f.vercel.app/)
-
----
-
 ### 🧑‍💻 About Me:
 - I'm a Full Stack Web Developer.
 - I'm actively solving DSA problems using C++.
@@ -26,25 +13,33 @@
 ---
 
 
-### 👁️ Visitor Count:
+### 👁️ Visitors Count
+![Visitor Count](https://profile-counter.glitch.me/AdityaRaj/count.svg)
+
+---
+
+### 📫 Connect with Me
+
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Aditya-raj4&style=flat&color=blue" alt="Visitor Count" />
+  <a href="https://www.linkedin.com/in/aditya-raj-416a61261" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="mailto:raditya0949@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://portfolio-aditya-rajs-projects-4763438f.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=firefox-browser" />
+  </a>
 </p>
 
 ---
 
-### 📫 Connect With Me:
-<p align="center">
-  <a href="https://www.linkedin.com/in/aditya-raj-416a61261" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin" />
-  </a>
-  <a href="mailto:raditya0949@gmail.com">
-    <img src="https://img.shields.io/badge/-Email-red?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://portfolio-aditya-rajs-projects-4763438f.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/-Portfolio-black?style=for-the-badge&logo=firefox-browser" />
-  </a>
-</p>
+
+### 📫 Connect with me
+
+- [LinkedIn](https://www.linkedin.com/in/aditya-raj-416a61261)
+- 📧 Email: [raditya0949@gmail.com](mailto:raditya0949@gmail.com)
+- 🌐 [My Portfolio](https://portfolio-aditya-rajs-projects-4763438f.vercel.app/)
 
 ---
 
