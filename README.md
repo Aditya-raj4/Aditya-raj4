@@ -1,4 +1,3 @@
-[media pointer="file-service://file-UkfhkapT1xWgZHQUBE6dKU"]
 <!-- Profile Header -->
 <h1> Hello 👋, I'm Aditya</h1>
 
