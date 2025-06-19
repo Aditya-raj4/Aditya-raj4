@@ -1,53 +1,40 @@
-<!-- Profile Header -->
-<h1> Hello 👋, I'm Aditya</h1>
+## Hello There 👋, I'm Aditya
 
-
-### 🧑‍💻 About Me:
-- I'm a Full Stack Web Developer.
-- I'm actively solving DSA problems using C++.
-- Currently working on some projects using the MERN stack.
-- Always open to learning and would love to collaborate on meaningful projects.
+🧑‍💻 I'm a Full Stack Web Developer  
+🧠 Actively solving DSA problems in C++  
+🛠️ Currently building projects using the MERN stack  
+🤝 Always open to learning and collaborating on meaningful work
 
 ---
 
-### 👁️ Visitor Count:
+### 👁️ Visitors Count
+![Visitor Count](https://profile-counter.glitch.me/AdityaRaj/count.svg)
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Profile%20Views-1200-blue?style=flat-square" />
-</p>
+---
+
+### 📫 Connect with me
+
+- [LinkedIn](https://www.linkedin.com/in/aditya-raj-416a61261)
+- 📧 Email: [raditya0949@gmail.com](mailto:raditya0949@gmail.com)
+- 🌐 [My Portfolio](https://portfolio-aditya-rajs-projects-4763438f.vercel.app/)
+
+---
+
+### 🛠️ Languages and Tools I Use
+
+![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=flat&logo=javascript)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js)
+![Express.js](https://img.shields.io/badge/-Express.js-black?style=flat&logo=express)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)
 
 ---
 
 
-### 📫 Connect with Me:
-<p align="center">
-  <a href="https://www.linkedin.com/in/aditya-raj-416a61261" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin" />
-  </a>
-  <a href="mailto:raditya0949@gmail.com">
-    <img src="https://img.shields.io/badge/-Email-red?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://portfolio-aditya-rajs-projects-4763438f.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/-Portfolio-black?style=for-the-badge&logo=firefox-browser" />
-  </a>
-</p>
-
----
-
-### 🛠️ Languages and Tools I Use:
-<p align="center">
-  <img src="https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js" />
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-</p>
-
----
 
 ### 📊 GitHub Stats:
 <p align="center">
