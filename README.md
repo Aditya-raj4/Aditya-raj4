@@ -1,27 +1,29 @@
 <!-- Profile Header -->
 <h1 align="center">Hello 👋, I'm Aditya</h1>
-<h3 align="center">A passionate Full Stack Developer working with MERN stack</h3>
+<h3 align="center">A passionate Full Stack Developer working with the MERN stack</h3>
 
 ---
 
-### 🔭 What I'm currently working on:
-- 🚀 HealCart – A medicine donation platform for NGOs using the MERN stack.
-- 🎮 Game Listing Website – Built with React, Node.js, and Express.
-- 🧠 Improving DSA & Competitive Programming skills.
+### 🚀 What I'm Currently Working On:
+- 🩺 **HealCart** – A medicine donation platform for NGOs built with the MERN stack.
+- 🎮 **Game Listing Website** – Made with React, Node.js, Express, and MongoDB.
+- 🧠 Brushing up on **DSA** & practicing **Competitive Programming**.
 
 ---
 
 ### 👁️ Visitor Count:
-![Visitor Count](https://komarev.com/ghpvc/?username=your-username&style=flat&color=blue)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Aditya-raj4&style=flat&color=blue" alt="Visitor Count" />
+</p>
 
 ---
 
-### 📫 Connect with me:
-<p align="left">
+### 📫 Connect With Me:
+<p align="center">
   <a href="https://www.linkedin.com/in/aditya-raj-416a61261" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin" />
   </a>
-  <a href="raditya0949@gmail.com">
+  <a href="mailto:raditya0949@gmail.com">
     <img src="https://img.shields.io/badge/-Email-red?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://portfolio-aditya-rajs-projects-4763438f.vercel.app/" target="_blank">
@@ -32,7 +34,7 @@
 ---
 
 ### 🛠️ Languages and Tools I Use:
-<p>
+<p align="center">
   <img src="https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript" />
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js" />
@@ -45,6 +47,7 @@
 </p>
 
 ---
+
 ### 📊 GitHub Stats:
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Aditya-raj4&show_icons=true&theme=radical" height="200"/>
