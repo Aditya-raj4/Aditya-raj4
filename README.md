@@ -3,6 +3,20 @@
 
 ---
 
+
+### 👁️ Visitors Count
+![Visitor Count](https://profile-counter.glitch.me/AdityaRaj/count.svg)
+
+---
+
+### 📫 Connect with me
+
+- [LinkedIn](https://www.linkedin.com/in/aditya-raj-416a61261)
+- 📧 Email: [raditya0949@gmail.com](mailto:raditya0949@gmail.com)
+- 🌐 [My Portfolio](https://portfolio-aditya-rajs-projects-4763438f.vercel.app/)
+
+---
+
 ### 🧑‍💻 About Me:
 - I'm a Full Stack Web Developer.
 - I'm actively solving DSA problems using C++.
@@ -36,7 +50,7 @@
 
 ### 🛠️ Languages and Tools I Use:
 
-<p float="center">
+<p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40"/>
