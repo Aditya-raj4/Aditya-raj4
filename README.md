@@ -24,6 +24,10 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Aditya-raj4&style=flat&color=blue" alt="Visitor Count"/>
 </p>
+### 👁️ Visitor Count:
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Aditya-raj4&style=flat&color=blue" alt="Visitor Count" />
+</p>
 
 ---
 
