@@ -18,23 +18,6 @@
 
 ---
 
-### 📫 Connect with Me
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/aditya-raj-416a61261" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
-  </a>
-  <a href="mailto:raditya0949@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://portfolio-aditya-rajs-projects-4763438f.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=firefox-browser" />
-  </a>
-</p>
-
----
-
-
 ### 📫 Connect with me
 
 - LinkedIn:  [LinkedIn](https://www.linkedin.com/in/aditya-raj-416a61261)
