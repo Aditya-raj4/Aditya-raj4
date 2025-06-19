@@ -24,12 +24,13 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Aditya-raj4&style=flat&color=blue" alt="Visitor Count"/>
 </p>
-### 👁️ Visitor Count:
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Aditya-raj4&style=flat&color=blue" alt="Visitor Count" />
-</p>
+
 
 ---
+<p align="center">
+  <img src="https://img.shields.io/badge/Profile%20Views-9999-blue?style=flat-square" />
+</p>
+
 
 ### 📫 Connect with Me:
 <p align="center">
