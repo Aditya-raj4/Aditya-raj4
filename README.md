@@ -1,22 +1,12 @@
 <!-- Profile Header -->
-<h1 align="center">Hello 👋, I'm Aditya</h1>
-<h3 align="center">A passionate Full Stack Developer working with the MERN stack</h3>
+<h1> Hello 👋, I'm Aditya</h1>
 
----
 
 ### 🧑‍💻 About Me:
-- 🎓 I’m currently pursuing my Bachelor's degree in Computer Science.
-- 💻 I love building full-stack web applications using JavaScript, React, Node.js, and MongoDB.
-- 🛠️ I enjoy solving DSA problems and participating in hackathons.
-- 🌱 Currently learning DevOps & system design fundamentals.
-- ⚡ Fun Fact: I enjoy debugging as much as building — "every bug is a mystery to solve!"
-
----
-
-### 🔭 What I'm Currently Working On:
-- 🚀 **HealCart** – A medicine donation platform for NGOs using the MERN stack.
-- 🎮 **Game Listing Website** – Built with React, Node.js, and Express.
-- 🧠 Improving my **DSA** & **Competitive Programming** skills.
+- I'm a Full Stack Web Developer.
+- I'm actively solving DSA problems using C++.
+- Currently working on some projects using the MERN stack.
+- Always open to learning and would love to collaborate on meaningful projects.
 
 ---
 
