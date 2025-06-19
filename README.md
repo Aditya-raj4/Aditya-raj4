@@ -18,13 +18,13 @@
 
 ### 📫 Connect with me:
 <p align="left">
-  <a href="https://www.linkedin.com/in/your-linkedin" target="_blank">
+  <a href="https://www.linkedin.com/in/aditya-raj-416a61261" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin" />
   </a>
-  <a href="mailto:your.email@example.com">
+  <a href="raditya0949@gmail.com">
     <img src="https://img.shields.io/badge/-Email-red?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://your-portfolio-link.com" target="_blank">
+  <a href="https://portfolio-aditya-rajs-projects-4763438f.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/-Portfolio-black?style=for-the-badge&logo=firefox-browser" />
   </a>
 </p>
@@ -47,22 +47,15 @@
 ---
 
 ### 📊 GitHub Stats:
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical" height="200"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical" height="200"/>
-</p>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Aditya-raj4&show_icons=true&theme=radical" height="200"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aditya-raj4&layout=compact&theme=radical" height="200"/> </p>
 
 ---
 
 ### 🔥 GitHub Streak:
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=radical" height="200"/>
-</p>
+<p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aditya-raj4&theme=radical" height="200"/> </p>
 
 ---
 
 ### 🧩 GitHub Activity Graph:
-<p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=your-username&theme=rogue" height="250"/>
-</p>
+<p align="center"> <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Aditya-raj4&theme=rogue" height="250"/> </p>
 
