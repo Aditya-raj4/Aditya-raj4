@@ -37,9 +37,9 @@
 
 ### 📫 Connect with me
 
-- [LinkedIn](https://www.linkedin.com/in/aditya-raj-416a61261)
--  Email: [raditya0949@gmail.com](mailto:raditya0949@gmail.com)
--  [My Portfolio](https://portfolio-aditya-rajs-projects-4763438f.vercel.app/)
+- LinkedIn:  [LinkedIn](https://www.linkedin.com/in/aditya-raj-416a61261)
+- Email:     [raditya0949@gmail.com](mailto:raditya0949@gmail.com)
+- Portfolio: [My Portfolio](https://portfolio-aditya-rajs-projects-4763438f.vercel.app/)
 
 ---
 
