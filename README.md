@@ -4,30 +4,21 @@
 
 ---
 
-### 🧑‍💻 About Me:
-- 🎓 I’m currently pursuing my Bachelor's degree in Computer Science.
-- 💻 I love building full-stack web applications using JavaScript, React, Node.js, and MongoDB.
-- 🛠️ I enjoy solving DSA problems and participating in hackathons.
-- 🌱 Currently learning DevOps & system design fundamentals.
-- ⚡ Fun Fact: I enjoy debugging as much as building — "every bug is a mystery to solve!"
-
----
-
-### 🔭 What I'm Currently Working On:
-- 🚀 **HealCart** – A medicine donation platform for NGOs using the MERN stack.
-- 🎮 **Game Listing Website** – Built with React, Node.js, and Express.
-- 🧠 Improving my **DSA** & **Competitive Programming** skills.
+### 🚀 What I'm Currently Working On:
+- 🩺 **HealCart** – A medicine donation platform for NGOs built with the MERN stack.
+- 🎮 **Game Listing Website** – Made with React, Node.js, Express, and MongoDB.
+- 🧠 Brushing up on **DSA** & practicing **Competitive Programming**.
 
 ---
 
 ### 👁️ Visitor Count:
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Aditya-raj4&style=flat&color=blue" alt="Visitor Count"/>
+  <img src="https://komarev.com/ghpvc/?username=Aditya-raj4&style=flat&color=blue" alt="Visitor Count" />
 </p>
 
 ---
 
-### 📫 Connect with Me:
+### 📫 Connect With Me:
 <p align="center">
   <a href="https://www.linkedin.com/in/aditya-raj-416a61261" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin" />
@@ -76,6 +67,7 @@
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Aditya-raj4&theme=rogue" height="250"/>
 </p>
+
 
 
 
