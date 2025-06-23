@@ -58,15 +58,16 @@
 
 ---
 
+### 🔥 GitHub Streak Stats
+
+<img src="https://streak-stats.demolab.com/?user=Aditya-raj4&theme=radical" alt="GitHub Streak" />
+
+
 ### 🧩 GitHub Activity Graph:
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Aditya-raj4&theme=rogue" height="250"/>
 </p>
 
-### 🔥 GitHub Streak:
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Aditya-raj4&theme=radical" height="200"/>
-</p>
 
 
 
