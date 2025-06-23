@@ -53,30 +53,13 @@
 
 ### 🔥 GitHub Streak:
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Aditya-raj4&theme=radical" height="200"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aditya-raj4&theme=radical&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
 </p>
 
 ---
-
-### 🔥 GitHub Streak Stats
-
-<img src="https://streak-stats.demolab.com/?user=Aditya-raj4&theme=radical" alt="GitHub Streak" />
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Aditya-raj4&theme=radical&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
-</p>
-
 
 
 ### 🧩 GitHub Activity Graph:
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Aditya-raj4&theme=rogue" height="250"/>
 </p>
-
-
-
-
-
-
-
-
