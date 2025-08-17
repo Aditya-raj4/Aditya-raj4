@@ -14,7 +14,8 @@
 
 
 ### 👁️ Visitors Count
-![Visitor Count](https://profile-counter.glitch.me/AdityaRaj/count.svg)
+![Profile views](https://komarev.com/ghpvc/?username=your-github-username&color=blue)
+
 
 ---
 
